@@ -1,4 +1,3 @@
-# ASCII art banner
 Write-Host @"
 ------
 < - Deadly Data >
